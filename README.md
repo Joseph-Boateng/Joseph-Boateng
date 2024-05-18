@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Python Project**
 
-- 📫 How to reach me [Email](ajenimboateng221@gmail.com) and [LinkedIn](www.linkedin.com/in/josephboateng)
+- 📫 How to reach me [Email](ajenimboateng221@gmail.com) and [LinkedIn](https://linkedin.com/in/josephboateng)
 in.com/in/josephboaten
 - 📄 Know about my experiences [Resume](https://rb.gy/kzxip9) 
 
