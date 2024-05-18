@@ -1,16 +1,19 @@
 <h1 align="center">Hi, I'm Joseph</h1>
-<h3 align="center">IT Enthusiast</h3>
+<h3 align="center">Data Analyst</h3>
 
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **ajenimboateng221@gmail.com**
+- 👯 I’m looking to collaborate on **Python Project**
 
-- 📄 Know about my experiences [https://app.enhancv.com/share/1088d9e2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic](https://app.enhancv.com/share/1088d9e2/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 📫 How to reach me **"Email" and "LinkedIn"**
+
+- 📄 Know about my experiences [https://rb.gy/kzxip9](https://rb.gy/kzxip9)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/joseph boateng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph boateng" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
