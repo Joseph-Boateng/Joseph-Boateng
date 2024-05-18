@@ -1,3 +1,2 @@
-## HI, I'm Joseph!  
+## Hi, I'm Joseph!  
 Data Analyst, IT Enthusiast
-## Data Analyst Projects:
