@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [PROJECTS](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)
 
-- 📫 How to reach me **[Email](ajenimboateng221@gmail.com) and [LinkedIn](https://linkedin.com/in/josephboateng)**
+- 📫 How to reach me **[Email](mailto:ajenimboateng221@gmail.com) and [LinkedIn](https://linkedin.com/in/josephboateng)**
 
 - 📄 Know about my experiences [Resume](https://rb.gy/kzxip9)
 
