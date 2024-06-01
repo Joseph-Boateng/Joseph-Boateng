@@ -6,7 +6,8 @@
   </a>
 </p>
 
- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph-boateng&label=Profile%20views&color=0e75b6&style=flat" alt="elarhadu" /> </p> 
+
 
   - 🔭 I’m currently working on my [PROJECT](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)
 
