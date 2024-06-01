@@ -7,6 +7,9 @@
 </p>
 
 
+<h1 align="center">
+
+  
 - 🔭 I’m currently working on my **[PROJECT](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)**
 
 - 🌱 I’m currently learning **Python**
