@@ -1,16 +1,15 @@
 <h1 align="center">Hi, I'm Joseph</h1>
 
-<p align="center">
+<p align="right">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+a+Data+Analyst+;+IT+Enthusiast+;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=Data+Analyst+;+IT+Enthusiast+;" alt="Typing SVG">
   </a>
 </p>
 
 
-<h1 align="center">
+<h3 align="left"> 
 
-  
-- 🔭 I’m currently working on my **[PROJECT](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)**
+  - 🔭 I’m currently working on my **[PROJECT](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)**
 
 - 🌱 I’m currently learning **Python**
 
