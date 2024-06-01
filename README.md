@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Joseph</h1>
 
-<p align="right">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=Data+Analyst+;+IT+Enthusiast+;" alt="Typing SVG">
   </a>
@@ -9,15 +9,15 @@
 
 <h3 align="left"> 
 
-  - 🔭 I’m currently working on my **[PROJECT](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)**
+  - 🔭 I’m currently working on my [PROJECT](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning Python
 
-- 👯 I’m looking to collaborate on **Python Project**
+- 👯 I’m looking to collaborate on Python Project
 
 - 👨‍💻 All of my projects are available at [PROJECTS](https://github.com/Joseph-Boateng/DATA-ANALYTICS-PROJECTS)
 
-- 📫 How to reach me **[Email](mailto:ajenimboateng221@gmail.com) and [LinkedIn](https://linkedin.com/in/josephboateng)**
+- 📫 How to reach me [Email](mailto:ajenimboateng221@gmail.com) and [LinkedIn](https://linkedin.com/in/josephboateng)
 
 - 📄 Know about my experiences [Resume](https://rb.gy/kzxip9)
 
