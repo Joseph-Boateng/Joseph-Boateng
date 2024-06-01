@@ -20,16 +20,23 @@
 
 - 📄 Know about my experiences [Resume](https://rb.gy/kzxip9)
 
-<h3 align="left">Let's connect! 😊:</h3>
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
 <a href="https://linkedin.com/in/josephboateng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josephboateng" height="30" width="40" /></a>
 <a href="https://discord.gg/1202618670426103859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1202618670426103859" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph-boateng&show_icons=true&locale=en&layout=compact" alt="joseph-boateng" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-boateng&show_icons=true&locale=en" alt="joseph-boateng" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-boateng&" alt="joseph-boateng" /></p>
+
+## GitHub Statistics
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 2rem;">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=joseph-boateng&show_icons=true&theme=radical" alt="joseph-boateng" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joseph-boateng&show_icons=true&theme=radical" alt="joseph-boateng" />
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseph-boateng&show_icons=true&theme=radical" alt="joseph-boateng" />
+</div>
